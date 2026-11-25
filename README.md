@@ -25,12 +25,29 @@ The team is developing the game through separate systems, including player contr
 
 ### Role 1 — Player & Weapons: Joaquin
 
-Progress update pending.
+**Completed:**
+- Implemented player movement and camera functionality.
+- Added WASD movement.
+- Added top-down camera following.
+- Created a separate PlayerTest scene for development and testing.
+- Tested player movement and camera behavior.
 
-### Role 2 — Zombie AI & Spawning: Isaiah
+**Next Steps:**
+- Implement mouse aiming and shooting.
+- Develop weapon mechanics, ammunition, and reloading.
+- Create functional player and weapon prefabs.
+### Role 2 — Zombie AI & Spawning: Isaiah Cortez
 
-Progress update pending.
+**Completed:**
+- Created a basic zombie prefab.
+- Added a test obstacle to evaluate AI navigation.
+- Implemented basic player tracking.
+- Demonstrated that the zombie can find a path around an object.
 
+**Next Steps:**
+- Create zombie spawn points.
+- Develop timed spawning or wave-based spawning.
+- Connect the zombie spawning system to the gameplay scene.
 ### Role 3 — Zombie Models & Animation: Esteban Naranjo
 
 - Created and textured a reusable 3D ZombieRunner character.
@@ -49,7 +66,16 @@ Progress update pending.
 
 ### Role 5 — UI, Menus & Integration: Deryn Cabana
 
-Progress update pending.
+**Current Contributions:**
+- Helped establish the shared Unity project and development setup.
+- Working on integrating the independently developed game systems.
+- Coordinating how the different components connect within the complete game.
+
+**Next Steps:**
+- Continue integrating player, weapon, zombie, and environment systems.
+- Develop and connect the UI, menus, and game-state functionality.
+- Support health and damage integration.
+- Test the combined gameplay scene and resolve integration issues.
 
 ## 4. Current Gameplay Demonstration
 
